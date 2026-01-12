@@ -1,11 +1,10 @@
 # 📅 Interactive Python Calendar (v2.0)
 
-An interactive calendar application developed using Python's **Turtle Graphics** and **Calendar** modules. This project allows users to visualize a specific month and add personal notes to selected dates dynamically.
+An interactive calendar application developed using Python's modules. This project allows users to visualize a specific month and add personal notes to selected dates dynamically.
 
 ## 🛠 Technologies Used
-* **Python 3.x**
-* **Turtle Graphics** (Standard Library)
-* **Calendar & Datetime** (Standard Libraries)
+* **Python 3**
+* **Turtle** and **Calendar** modules
 
 ## 🔮 Future Improvements (Roadmap)
 * [ ] **Data Persistence:** Save notes to a `.txt` or `.json` file so they aren't lost when the program closes.
