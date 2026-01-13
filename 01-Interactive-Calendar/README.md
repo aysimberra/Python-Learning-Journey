@@ -1,5 +1,4 @@
 # 📅 Interactive Python Calendar (v2.0)
-
 An interactive calendar application developed using Python's modules. This project allows users to visualize a specific month and add personal notes to selected dates dynamically.
 
 ## 🛠 Technologies Used
